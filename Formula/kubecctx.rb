@@ -8,6 +8,8 @@ class Kubecctx < Formula
 
   bottle :unneeded
 
+  depends_on "fzf"
+
   def install
     share.install "kubecctx.sh"
   end
