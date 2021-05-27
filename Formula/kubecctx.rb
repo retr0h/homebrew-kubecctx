@@ -5,6 +5,7 @@ class Kubecctx < Formula
   sha256 "91604e6b4ce63499b61ca79cd8f87550a22063cbaa5ea17f6aa7344d7aa02476"
   license "MIT"
   head "https://github.com/retr0h/kubecctx.git"
+  version "0.1.1"
 
   bottle :unneeded
 
